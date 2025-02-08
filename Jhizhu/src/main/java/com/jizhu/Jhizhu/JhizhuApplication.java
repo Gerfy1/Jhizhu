@@ -9,5 +9,4 @@ public class JhizhuApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JhizhuApplication.class, args);
 	}
-
 }
