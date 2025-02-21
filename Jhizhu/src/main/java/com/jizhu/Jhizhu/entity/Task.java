@@ -24,7 +24,7 @@ public class Task {
 
     private String description;
 
-    private LocalDateTime dueDate;
+    private LocalDateTime date;
 
     private boolean finished;
 
